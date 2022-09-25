@@ -77,8 +77,9 @@ let wzydbody = $.getdata('wzydbody')
 //获取ck
 //https://kohcamp.qq.com/operation/action/signin
 function wzydck() {
-    console.log($request.url)
-    if ($request.url.indexOf("action/signin") > -1) {
+       let reg = /.*signin$/
+   // if ($request.url.indexOf("action/signin") > -1) {
+       if (reg.test($request.url)) {
         const wzydurl = $request.url
         if (wzydurl) $.setdata(wzydurl, `wzydurl${status}`)
         $.log(wzydurl)
