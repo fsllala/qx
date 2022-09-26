@@ -1,7 +1,7 @@
 /*
-2022/6/5
+2022/9/25
 重写：
-https://kohcamp.qq.com/operation/action/signin url script-request-body https://gitee.com/fsllala/quan-x/raw/master/wzyd.js
+https://kohcamp.qq.com/operation/action/signin url script-request-body https://raw.githubusercontent.com/fsllala/qx/main/wzyd.js
 主机名：
 kohcamp.qq.com
 */
