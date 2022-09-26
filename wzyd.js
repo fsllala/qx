@@ -1,5 +1,5 @@
 /*
-2022/9/25
+2022/9/26
 重写：
 https://kohcamp.qq.com/operation/action/signin url script-request-body https://raw.githubusercontent.com/fsllala/qx/main/wzyd.js
 主机名：
