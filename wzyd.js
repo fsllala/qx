@@ -1,7 +1,7 @@
 /*
 2023/10/13
 重写：
-https://kohcamp.qq.com/operation/action/signin url script-request-body https://raw.githubusercontent.com/fsllala/qx/main/ikuuu.js
+https://kohcamp.qq.com/operation/action/signin url script-request-body https://raw.githubusercontent.com/fsllala/qx/main/wzyd.js
 主机名：
 ikuuu.art
 */
