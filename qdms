@@ -3,7 +3,7 @@ var obj = JSON.parse(body);
 
 obj.data.$isVIP = true;
 obj.data.$isValidVip = true;
-obj.data.vipLimit = 0;
+obj.data.vipExpiration = "lifelong";
 
 
 body = JSON.stringify(obj);
